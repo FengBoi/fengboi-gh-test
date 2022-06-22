@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-test/static/css/main.38be36b0.css",
-    "main.js": "/react-gh-test/static/js/main.440f557c.js",
-    "static/js/787.f7822780.chunk.js": "/react-gh-test/static/js/787.f7822780.chunk.js",
-    "index.html": "/react-gh-test/index.html",
-    "main.38be36b0.css.map": "/react-gh-test/static/css/main.38be36b0.css.map",
-    "main.440f557c.js.map": "/react-gh-test/static/js/main.440f557c.js.map",
-    "787.f7822780.chunk.js.map": "/react-gh-test/static/js/787.f7822780.chunk.js.map"
+    "main.css": "/fengboi-gh-test/static/css/main.38be36b0.css",
+    "main.js": "/fengboi-gh-test/static/js/main.dec3f2c5.js",
+    "static/js/787.f7822780.chunk.js": "/fengboi-gh-test/static/js/787.f7822780.chunk.js",
+    "index.html": "/fengboi-gh-test/index.html",
+    "main.38be36b0.css.map": "/fengboi-gh-test/static/css/main.38be36b0.css.map",
+    "main.dec3f2c5.js.map": "/fengboi-gh-test/static/js/main.dec3f2c5.js.map",
+    "787.f7822780.chunk.js.map": "/fengboi-gh-test/static/js/787.f7822780.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.440f557c.js"
+    "static/js/main.dec3f2c5.js"
   ]
 }
