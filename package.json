@@ -1,7 +1,7 @@
 {
   "name": "shippit",
   "version": "0.1.0",
-  "homepage": "https://fengboi.github.io/fengboi-gh-test",
+  "homepage": "https://www.fengboi.com/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",

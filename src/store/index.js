@@ -10,7 +10,7 @@ export const myReducer = {
     decrease(state, action) {
         if(state !== undefined){
             const index = state.ships.findIndex(ship => ship.name === action.payload)
-        state.ships[index].total_no--;
+            state.ships[index].total_no--;
         }
     },
     update(state, action) {
