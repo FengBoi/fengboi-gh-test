@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fengboi-gh-test/static/css/main.38be36b0.css",
-    "main.js": "/fengboi-gh-test/static/js/main.dec3f2c5.js",
-    "static/js/787.f7822780.chunk.js": "/fengboi-gh-test/static/js/787.f7822780.chunk.js",
-    "index.html": "/fengboi-gh-test/index.html",
-    "main.38be36b0.css.map": "/fengboi-gh-test/static/css/main.38be36b0.css.map",
-    "main.dec3f2c5.js.map": "/fengboi-gh-test/static/js/main.dec3f2c5.js.map",
-    "787.f7822780.chunk.js.map": "/fengboi-gh-test/static/js/787.f7822780.chunk.js.map"
+    "main.css": "/static/css/main.38be36b0.css",
+    "main.js": "/static/js/main.8ee7e751.js",
+    "static/js/787.f7822780.chunk.js": "/static/js/787.f7822780.chunk.js",
+    "index.html": "/index.html",
+    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
+    "main.8ee7e751.js.map": "/static/js/main.8ee7e751.js.map",
+    "787.f7822780.chunk.js.map": "/static/js/787.f7822780.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.dec3f2c5.js"
+    "static/js/main.8ee7e751.js"
   ]
 }
